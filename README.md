@@ -1,0 +1,8 @@
+# Glare Heart rate Monitor based Microsoft Cognitive App for emotions/ speech error detection using Azure Machine learning
+
+ 
+Glare is a first of its kind framework of applications which spans across Virtual and Mixed reality experience that includes simulation of different public speaking environments, available for practice sessions that can be taken anywhere, at anytime, along with emotion detection, as well as it keeps an eye on the user's heart rate and helps the users in the form of an assistant through voice feedback. All this is based on two different modules being operated via machine learning and cognitive services.
+
+Glare is first of its kind cross-platform solution which uses realistic simulation of public speaking scenarios with 360 degree videos and an interactive user interface. It uses speech recognition and machine learning with a proper voice guidance based on user's heart rate in real time, required for proper breathing, especially for speech content improvisation.
+
+Glare is dedicated to provide solution utilizing the available modern technology to help people overcome their fear of public speaking. It is a fully affordable framework, offering various effective modules, promising satisfied outcomes. Currently the Glare framework consists of a Windows 10 desktop application, a virtual reality as well as a mixed reality application. It is the first of its kind solution that uses the leveraging power of cloud computing (Artificial intelligence, machine learning cognitive services). It helps users to save time, efforts and money by letting them to rehearse and at the same time, users can get an evaluation about their speech content, through voice recognition. That's what makes GLARE unique.
