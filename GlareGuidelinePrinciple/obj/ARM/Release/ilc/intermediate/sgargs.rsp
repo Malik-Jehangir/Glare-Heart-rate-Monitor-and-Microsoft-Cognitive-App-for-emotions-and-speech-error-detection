@@ -1,0 +1,11 @@
+/out:"C:\Users\MALIKJEHANGIRAHMED\Documents\Visual Studio 2017\Projects\GlareGuidelinePrinciple\GlareGuidelinePrinciple\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\MALIKJEHANGIRAHMED\Documents\Visual Studio 2017\Projects\GlareGuidelinePrinciple\GlareGuidelinePrinciple\obj\ARM\Release\ilc\intermediate\\"
+/ref:"C:\Users\MALIKJEHANGIRAHMED\Documents\Visual Studio 2017\Projects\GlareGuidelinePrinciple\GlareGuidelinePrinciple\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\MALIKJEHANGIRAHMED\Documents\Visual Studio 2017\Projects\GlareGuidelinePrinciple\GlareGuidelinePrinciple\obj\ARM\Release\ilc\intermediate\TransformedSRWR"
+/ref:"C:\Users\MALIKJEHANGIRAHMED\Documents\Visual Studio 2017\Projects\GlareGuidelinePrinciple\GlareGuidelinePrinciple\obj\ARM\Release\ilc\in"
+/ref:"C:\Users\MALIKJEHANGIRAHMED\Documents\Visual Studio 2017\Projects\GlareGuidelinePrinciple\GlareGuidelinePrinciple\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Users\MALIKJEHANGIRAHMED\Documents\Visual Studio 2017\Projects\GlareGuidelinePrinciple\GlareGuidelinePrinciple\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Users\MALIKJEHANGIRAHMED\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\ARM\ilc\lib\Private\\"
+/ref:"C:\Users\MALIKJEHANGIRAHMED\Documents\Visual Studio 2017\Projects\GlareGuidelinePrinciple\GlareGuidelinePrinciple\obj\ARM\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\MALIKJEHANGIRAHMED\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\ARM\ilc\csc"

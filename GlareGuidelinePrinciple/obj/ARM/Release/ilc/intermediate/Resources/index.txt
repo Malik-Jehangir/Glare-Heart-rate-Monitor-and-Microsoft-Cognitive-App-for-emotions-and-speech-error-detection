@@ -1,0 +1,7 @@
+Microsoft.WindowsAzure.Mobile, Version=3.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  Microsoft.WindowsAzure.MobileServices.Resources.resources
+System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  System.Net.Http.Properties.CommonWebApiResources.resources
+  System.Net.Http.Properties.Resources.resources
+WinRTXamlToolkit.Controls.DataVisualization, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+  WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resources

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<grammar
+  version="1.0" mode="voice" root="commands"
+  xml:lang="en-US" tag-format="semantics/1.0"
+  xmlns="http://www.w3.org/2001/06/grammar">
+
+  <rule id="commands">
+    <one-of>
+      <item>
+        <ruleref uri="#size"/>
+      </item>
+    </one-of>
+  </rule>
+  
+  <rule id="size">
+    <one-of>
+      <item>
+        <ruleref uri="#sizetype" />
+        <tag> out.action=rules.latest(); </tag>
+      </item>
+    </one-of>
+  </rule>
+ 
+  
+  <rule id="sizetype">
+    <one-of>
+      
+      <item>
+        <tag>out="sorry";</tag>
+        <one-of>
+          <item>sorry</item>
+          <item>Im sorry</item>
+        </one-of>
+      </item>
+      
+     
+    
+        <item>
+        <tag>out="basically";</tag>
+        <one-of>
+          <item>basically</item>
+        <item>so basically</item>
+        </one-of>
+      </item>
+      
+      
+      <item>
+        <tag>out="ok";</tag>
+        <one-of>
+          <item>ok</item>
+        </one-of>
+      </item>
+      
+      
+      
+    
+        <item>
+        <tag>out="as you see";</tag>
+        <one-of>
+          <item>as you see</item>
+         <item>so as you see</item>
+        </one-of>
+      </item>
+
+
+
+        <item>
+        <tag>out="actually";</tag>
+        <one-of>
+          <item>actually</item>
+        </one-of>
+      </item>
+
+
+
+        <item>
+        <tag>out="now";</tag>
+        <one-of>
+          <item>now</item>
+        </one-of>
+      </item>
+  
+        <item>
+        <tag>out="so now";</tag>
+        <one-of>
+          <item>so now</item>
+        </one-of>
+      </item>
+
+    
+        <item>
+        <tag>out="so and so far";</tag>
+        <one-of>
+          <item>so and so far</item>
+        </one-of>
+      </item>  
+
+
+      <item>
+        <tag>out="and so on";</tag>
+        <one-of>
+          <item>and so on</item>
+        </one-of>
+      </item>  
+
+      
+        
+       <item>
+        <tag>out="so on";</tag>
+        <one-of>
+          <item>so on</item>
+        </one-of>
+      </item>  
+
+    
+  
+
+       <item>
+        <tag>out="you know";</tag>
+        <one-of>
+          <item>you know</item>
+        </one-of>
+      </item>
+
+
+
+<item>
+        <tag>out="um";</tag>
+        <one-of>
+          <item>um</item>
+        </one-of>
+      </item>
+
+       
+
+      
+    </one-of>
+  </rule>
+</grammar>
